@@ -1,0 +1,1 @@
+{"themeIDp":0,"lineStyleIDp":0,"useDialogp":true,"scalep":100.0,"lineWidthp":10,"moveSpeedp":100,"scrollSensitivityp":50}

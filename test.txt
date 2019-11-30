@@ -1,0 +1,18 @@
+{
+    "elements": [
+        {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "title": "",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "",
+            "enableReminder": false,
+            "reminder": ""
+        }
+    ],
+    "links": []
+}

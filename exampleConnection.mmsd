@@ -1,0 +1,359 @@
+{
+    "viewPos": {
+        "x": -3364.0498046875,
+        "y": 891.78125
+    },
+    "elements": [
+        {
+            "targetObj": {
+                "m_FileID": -28390,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 1103.875,
+                "y": -360.4375
+            },
+            "title": "Link",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月14日 21:12:04"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -28516,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 684.1875,
+                "y": -196.625
+            },
+            "title": "Test?",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月14日 20:19:18"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -28642,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 716.25,
+                "y": 0.0
+            },
+            "title": "ExampleConnection",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月14日 21:11:53"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -28768,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 318.3125,
+                "y": -303.0625
+            },
+            "title": "ReminderTest",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": true,
+            "reminder": "2020年7月14日 21:12:14"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -28894,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 0.0,
+                "y": -193.75
+            },
+            "title": "Np.2",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": true,
+            "reminder": "2019年7月14日 21:12:26"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -29020,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 701.75,
+                "y": -446.3125
+            },
+            "title": "List",
+            "body": "",
+            "lists": [
+                {
+                    "check": false,
+                    "title": "One"
+                },
+                {
+                    "check": true,
+                    "title": "Two"
+                }
+            ],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月14日 21:12:40"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -29146,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 347.125,
+                "y": -114.6875
+            },
+            "title": "",
+            "body": "TextOnly",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月14日 21:12:58"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -29272,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 48.375,
+                "y": -419.3125
+            },
+            "title": "SuperLong",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": true,
+            "reminder": "9999年12月30日 23:59:59"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -29398,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 1287.0555419921875,
+                "y": -574.8125
+            },
+            "title": "Long",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月15日 15:08:46"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -29524,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 2032.0,
+                "y": -846.25
+            },
+            "title": "Far",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月15日 15:09:07"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -29650,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 2797.25,
+                "y": -1078.125
+            },
+            "title": "Away",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": false,
+            "reminder": "2019年7月15日 15:09:13"
+        },
+        {
+            "targetObj": {
+                "m_FileID": -29776,
+                "m_PathID": 0
+            },
+            "position": {
+                "x": 3699.0498046875,
+                "y": -1339.28125
+            },
+            "title": "ExtraFarRemi",
+            "body": "",
+            "lists": [],
+            "command": "",
+            "result": "Error!!",
+            "enableReminder": true,
+            "reminder": "2029年7月17日 20:49:23"
+        }
+    ],
+    "links": [
+        {
+            "id1": 10,
+            "id2": 11,
+            "rt1": {
+                "m_FileID": -29652,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -29778,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 9,
+            "id2": 10,
+            "rt1": {
+                "m_FileID": -29526,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -29652,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 8,
+            "id2": 9,
+            "rt1": {
+                "m_FileID": -29400,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -29526,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 0,
+            "id2": 8,
+            "rt1": {
+                "m_FileID": -28392,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -29400,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 3,
+            "id2": 7,
+            "rt1": {
+                "m_FileID": -28770,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -29274,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 1,
+            "id2": 6,
+            "rt1": {
+                "m_FileID": -28518,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -29148,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 1,
+            "id2": 5,
+            "rt1": {
+                "m_FileID": -28518,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -29022,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 3,
+            "id2": 4,
+            "rt1": {
+                "m_FileID": -28770,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -28896,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 1,
+            "id2": 3,
+            "rt1": {
+                "m_FileID": -28518,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -28770,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 1,
+            "id2": 0,
+            "rt1": {
+                "m_FileID": -28518,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -28392,
+                "m_PathID": 0
+            }
+        },
+        {
+            "id1": 2,
+            "id2": 1,
+            "rt1": {
+                "m_FileID": -28644,
+                "m_PathID": 0
+            },
+            "rt2": {
+                "m_FileID": -28518,
+                "m_PathID": 0
+            }
+        }
+    ],
+    "pathd": {
+        "path": "C:/Asset/ProjectFile/Unity's/MemoMapV2.1/Assets",
+        "fileName": "exampleConnection.mmsd"
+    }
+}
